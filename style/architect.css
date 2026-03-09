@@ -304,9 +304,12 @@ main>section {
 
 
 @media screen and (min-width: 576px) and (max-width: 992px) {
-    .teams ,.features {
+
+    .teams,
+    .features {
         flex-direction: column;
     }
+
     #experience-badge {
         margin-top: 20px;
         margin-left: 20px;
