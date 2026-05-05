@@ -19,6 +19,8 @@ header {
     background-color: rgba(255, 144, 14, 0.1);
     padding-top: 50px;
     padding-bottom: 45px;
+
+    margin-bottom: 85px;
 }
 
 nav {
@@ -94,4 +96,58 @@ nav a {
 
 .banner-image img {
     width: 100%;
+}
+
+
+/* Feature related styles */
+
+.feature-container {
+    max-width: 1318px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    /* border: 2px solid yellowgreen; */
+    margin-bottom: 130px;
+}
+
+.feature-image-container {
+    max-width: 708px;
+    display: grid;
+
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+}
+
+.feature-image-container img {
+    width: 100%;
+    max-width: 342px;
+}
+
+
+.feature-content {
+    max-width: 471px;
+}
+
+.feature-content h2 {
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 24px;
+
+}
+
+.low-opacity {
+    color: #727272;
+    font-weight: 400;
+}
+
+.orange {
+    color: #FF900E;
+}
+
+.feature-content p {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 32px;
+    color: #727272;
 }
