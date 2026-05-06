@@ -118,6 +118,10 @@
         font-weight: 600;
     }
 
+    .info-container {
+        margin-bottom: 81px;
+    }
+
 
     /* Facts Section Styles */
 
@@ -126,7 +130,12 @@
     }
 
     .facts-heading {
-        max-width: 100%;
+        max-width: 90%;
+        text-align: left;
+
+        border-left: 4px solid #FF900E;
+        padding-left: 12px;
+        margin: 0 auto;
         margin-bottom: 60px;
     }
 
@@ -143,7 +152,6 @@
     }
 
     .facts-card {
-
         max-width: 241px;
     }
 
