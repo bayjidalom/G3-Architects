@@ -371,3 +371,26 @@ nav a {
     margin: 0 auto;
     /* border: 1px solid black; */
 }
+
+
+/* Footer */
+
+footer {
+    margin-bottom: 150px;
+}
+
+.footer-container {
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: #FFF4E7;
+    padding: 38px 410px;
+    border: none;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.footer-container p {
+    font-size: 20px;
+    color: #424242;
+
+}
