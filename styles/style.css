@@ -316,3 +316,52 @@ nav a {
 .facts-card img {
     width: 100%;
 }
+
+
+
+/* Sponsor section styles */
+
+.sponsors-section {
+    max-width: 1440px;
+    margin: 0 auto;
+    /* border: 1px solid black; */
+    margin-bottom: 130px;
+}
+
+.sponsors-heading {
+    max-width: 542px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 55px;
+}
+
+.sponsors-heading h2 {
+    font-size: 45px;
+    font-weight: 700;
+    color: #131313;
+    margin-bottom: 17px;
+
+}
+
+.sponsors-heading p {
+    font-size: 16px;
+    color: #727272;
+}
+
+
+
+.sporsors-container {
+    max-width: 100%;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 155px;
+}
+
+.sponsor {
+    max-width: 166px;
+}
+
+.sponsor img {
+    width: 100%;
+    filter: grayscale(85%);
+}
