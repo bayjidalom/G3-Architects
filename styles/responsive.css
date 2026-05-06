@@ -156,6 +156,44 @@
     }
 
 
+    /* Sponsors Section */
+
+    .sponsors-section {
+        max-width: 95%;
+
+        margin-bottom: 60px;
+    }
+
+    .sponsors-heading {
+        max-width: 100%;
+
+    }
+
+    .sponsors-heading h2 {
+        font-size: 40px;
+    }
+
+
+    .sporsors-container {
+        max-width: 100%;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 30px;
+
+        margin: 0 auto;
+    }
+
+    .sponsor {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+
+
+    
+
+
+
+
 
 
 

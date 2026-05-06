@@ -355,13 +355,19 @@ nav a {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     gap: 155px;
+    /* border: 1px solid black; */
+
 }
 
 .sponsor {
     max-width: 166px;
 }
 
+
 .sponsor img {
     width: 100%;
+    max-width: 166px;
     filter: grayscale(85%);
+    margin: 0 auto;
+    /* border: 1px solid black; */
 }
