@@ -119,6 +119,41 @@
     }
 
 
+    /* Facts Section Styles */
+
+    .facts-container {
+        max-width: 95%;
+    }
+
+    .facts-heading {
+        max-width: 100%;
+        margin-bottom: 60px;
+    }
+
+    .facts-heading h3 {
+        font-size: 40px;
+
+    }
+
+    .facts-card-container {
+        max-width: 100%;
+
+        grid-template-columns: repeat(1, 1fr);
+        gap: 25px;
+    }
+
+    .facts-card {
+
+        max-width: 241px;
+    }
+
+
+
+
+
+
+
+
 
 
 }

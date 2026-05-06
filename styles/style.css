@@ -271,14 +271,16 @@ nav a {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     /* border: 1px solid black; */
-    
+
     gap: 124px;
 
 }
 
 .facts-card {
-    width: 100%;
+    width: 95%;
+
     max-width: none;
+    /* max-width: 245px; */
     border: 1px solid #FF900E;
     border-radius: 8px;
     padding: 45px;
@@ -289,14 +291,15 @@ nav a {
 
 }
 
-.facts-card h2{
+.facts-card h2 {
     /* font-size: 45px; */
     font-weight: 700;
     color: #424242;
     margin-bottom: 5px;
 
 }
-.facts-card p{
+
+.facts-card p {
     font-size: 20px;
     font-weight: 700;
     color: #727272;
