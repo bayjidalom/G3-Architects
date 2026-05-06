@@ -149,3 +149,91 @@ nav a {
     margin-bottom: 32px;
     color: #727272;
 }
+
+
+/* Experience Section styles */
+
+.info-container {
+    max-width: 1440px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    /* border: 2px solid #FF900E; */
+}
+
+.info-heading {
+    margin-bottom: 30px;
+}
+
+.info-heading h2 {
+    font-size: 45px;
+    font-weight: 700;
+    color: #131313;
+    margin-bottom: 24px;
+    border-left: 6px solid #FF900E;
+    padding-left: 20px;
+}
+
+.info-heading p {
+    font-size: 16px;
+    color: #727272;
+    line-height: 28px;
+}
+
+.info-content {
+    max-width: 586px;
+
+}
+
+.skills-card {
+    max-width: 100%;
+
+    border-radius: 8px;
+    padding: 30px;
+    background-color: white;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+
+.skills-card h4 {
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+.skills-card p {
+    font-size: 16px;
+    color: #727272;
+
+}
+
+.info-image {
+    max-width: 708px;
+}
+
+.info-image img {
+    width: 100%;
+}
+
+.badge {
+    padding: 45px;
+    background-color: #FF900E;
+    color: white;
+    border: none;
+    border-radius: 8px;
+
+    margin-left: -92px;
+    margin-top: -100px;
+}
+
+.badge-year {
+    font-size: 65px;
+    font-weight: 800;
+
+}
+
+.badge-text {
+    font-size: 25px;
+    font-weight: 600;
+}
