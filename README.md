@@ -1,16 +1,16 @@
-## Fitness
+## G3 Architects
 
 ## 🌐 Live Site
-[Visit : Fitness](https://bayjid-alom.github.io/Fitness/)
+[Visit : G3 Architects](https://bayjid-alom.github.io/G3-Architects/)
 
 ---
 
 ## 🏢 Project Overview
 
-Fitness is a modern and responsive fitness website designed to inspire healthy lifestyles and active living.  
-The website features clean layouts, modern UI sections, workout-focused content, and an engaging design built entirely with HTML and CSS.
+G3-Architects is a modern and responsive architecture website designed to showcase creative building designs and professional architectural services.  
+The website features clean layouts, modern UI sections, and an elegant design built entirely with HTML and CSS.
 
-This project highlights responsive web design principles, organized layouts, and visually appealing user experiences.
+This project highlights responsive web design principles, structured layouts, and visually appealing user experiences.
 
 ---
 
@@ -19,8 +19,7 @@ This project highlights responsive web design principles, organized layouts, and
 - Fully Responsive Design
 - Modern UI & Clean Layout
 - Hero Banner Section
-- Workout & Training Sections
-- BMI Calculator Section
+- Architecture Project Showcase
 - Interactive Button Hover Effects
 - Organized Content Structure
 - Pure HTML5 & CSS3 Project
@@ -39,5 +38,5 @@ This project highlights responsive web design principles, organized layouts, and
 ## 📂 Clone & Run Locally
 
 ```bash
-git clone https://github.com/bayjid-alom/Fitness.git
+git clone https://github.com/bayjid-alom/G3-Architects.git
 ```
